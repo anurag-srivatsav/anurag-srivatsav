@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer and Data Scientist
 ---------------------------------------
 
-📊 I specialize in data analysis, machine learning, and full-stack development, with a keen interest in research. 
-🔬I excel in creating compelling visualizations to convey insights effectively. 
-💻 Currently, I'm immersed in developing an AI-Voice clone and exploring innovative techniques in both data science and full-stack development. 
-🌱 I'm continuously learning and exploring new avenues in technology, particularly in data science and AI, to stay ahead of the curve. 
-🤝 I'm open to collaboration on projects spanning data science, machine learning, full-stack development, or research initiatives. 
-📫 Feel free to reach out to me via email or connect with me on LinkedIn to discuss potential collaborations or share insights! 
+📊 I specialize in data analysis, machine learning, and full-stack development, with a keen interest in research. <br>
+🔬I excel in creating compelling visualizations to convey insights effectively. <br>
+💻 Currently, I'm immersed in developing an AI-Voice clone and exploring innovative techniques in both data science and full-stack development. <br>
+🌱 I'm continuously learning and exploring new avenues in technology, particularly in data science and AI, to stay ahead of the curve. <br>
+🤝 I'm open to collaboration on projects spanning data science, machine learning, full-stack development, or research initiatives. <br>
+📫 Feel free to reach out to me via email or connect with me on LinkedIn to discuss potential collaborations or share insights! <br>
 🧠Too lazy to be dumb
 
 * 🌍  I'm based in India
