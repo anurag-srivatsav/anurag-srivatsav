@@ -15,7 +15,7 @@ Full Stack Developer and Data Scientist
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anuragsrivatsav4@gmail.com](mailto:anuragsrivatsav4@gmail.com)
 * 🤝  I'm open to collaborating on Data Visualization Projects.
-<h1>My Portfolio:https://anuragportfoli04.netlify.app/</h1>
+<p>My Portfolio:https://anuragportfoli04.netlify.app/</p>
 <a href="https://www.github.com/anurag-srivatsav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anurag-srivatsav?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 ---
