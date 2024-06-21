@@ -19,7 +19,6 @@ Full Stack Developer and Data Scientist
 <a href="https://www.github.com/anurag-srivatsav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anurag-srivatsav?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 ---
-[![](https://visitcount.itsvg.in/api?id=anurag-srivatsav&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Skills
 
