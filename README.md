@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D12AQERPM9i1r-tqA/article-cover_image-shrink_720_1280/0/1668532658573?e=2147483647&v=beta&t=V8dh-4baB1_-YJimkPAFGBt-gaxBw_Y3_cTeQAu_B_o" alt="Banner" width="100%" height="250px">
+<img src="[https://media.licdn.com/dms/image/D4D12AQERPM9i1r-tqA/article-cover_image-shrink_720_1280/0/1668532658573?e=2147483647&v=beta&t=V8dh-4baB1_-YJimkPAFGBt-gaxBw_Y3_cTeQAu_B_o](https://img.freepik.com/premium-photo/male-programmer-working-computer-night-illustration-ai-generated_843560-851.jpg?w=740)" alt="Banner" width="100%" height="250px">
 <h1 align="center">Hi 👋, I'm Anurag Srivastav Thammera</h1>
 <h3 align="center">A passionate Machine learning And Data Science developer from India.</h3>
 
