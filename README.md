@@ -1,3 +1,4 @@
+<img src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64dfc8162b86aaaa4236ed07_Header-p-800.webp" alt="Banner" width="100%" height="250px">
 <h1 align="center">Hi 👋, I'm Anurag Srivastav Thammera</h1>
 <h3 align="center">A passionate Machine learning And Data Science developer from India.</h3>
 
