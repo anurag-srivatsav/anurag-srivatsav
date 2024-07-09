@@ -1,4 +1,4 @@
-<img src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64dfc8162b86aaaa4236ed07_Header-p-800.webp" alt="Banner" width="100%" height="250px">
+<img src="https://media.licdn.com/dms/image/D4D12AQERPM9i1r-tqA/article-cover_image-shrink_720_1280/0/1668532658573?e=2147483647&v=beta&t=V8dh-4baB1_-YJimkPAFGBt-gaxBw_Y3_cTeQAu_B_o" alt="Banner" width="100%" height="250px">
 <h1 align="center">Hi 👋, I'm Anurag Srivastav Thammera</h1>
 <h3 align="center">A passionate Machine learning And Data Science developer from India.</h3>
 
