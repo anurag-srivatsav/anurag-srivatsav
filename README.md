@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/premium-photo/male-programmer-working-computer-night-illustration-ai-generated_843560-851.jpg?w=740" alt="Banner" width="100%" height="250px">
+<img src="https://pbs.twimg.com/media/F4tCf6wasAAHk8a?format=jpg&name=large" alt="Banner" width="100%" height="250px">
 <h1 align="center">Hi 👋, I'm Anurag Srivastav Thammera</h1>
 <h3 align="center">A passionate Machine learning And Data Science developer from India.</h3>
 
