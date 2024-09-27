@@ -6,13 +6,17 @@
 
 
 
-- 🔭 I’m currently working on **Gemini API ChatBot**
+- 🔭 I’m currently working on **AI Personalized music Application 🎶**
 
 - 🌱 I’m currently learning **Deep learning, Computer Vision**
 
 - 🔬I excel in **creating compelling visualizations to convey insights effectively.**
 
 - 👨‍💻 All of my projects are available at [https://anuragportfoli04.netlify.app/](https://anuragportfoli04.netlify.app/)
+
+- 🤖 Wanna look at my Portfolio Assistant? [Click here!](https://anuragsportfolioassist.streamlit.app/)
+
+- 🎤 Check out my EchoClone AI: [Click here!](https://echoclone-ai.streamlit.app/)
 
 - 💬 Ask me about **Data Science, Machine Learning, and Web development.**
 
