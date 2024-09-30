@@ -12,7 +12,7 @@
 
 - 🔬I excel in **creating compelling visualizations to convey insights effectively.**
 
-- 👨‍💻 All of my projects are available at [https://anuragportfoli04.netlify.app/](https://anuragsrivatsav.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://anuragsrivatsav.netlify.app/)
 
 - 🤖 Wanna look at my Portfolio Assistant? [Click here!](https://anuragsportfolioassist.streamlit.app/)
 
