@@ -25,7 +25,7 @@
 <br>
 <img src="./Assets/gradient-line.gif" alt="gradient line" width="1920" />
 
-<h1>Skills</h1> <img src="./Assets/coding-symbol-anime.gif" alt="coding anime gif" width="30">
+<h1>Skills <img src="./Assets/coding-symbol-anime.gif" alt="coding anime gif" width="30"></h1> 
 
 <div align="center">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
