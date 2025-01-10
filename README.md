@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-srivatsav&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-srivatsav" /> </p>
 
+<img src="./Assets/gradient-line.gif" alt="gradient line" width="1920" />
 
 
 - 🔭 I’m currently working on **AI Personalized music Application 🎶**
@@ -12,34 +13,63 @@
 
 - 🔬I excel in **creating compelling visualizations to convey insights effectively.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://anuragsrivatsav.netlify.app/)
-
-- 🤖 Wanna look at my Portfolio Assistant? [Click here!](https://anuragsportfolioassist.streamlit.app/)
-
-- 🎤 Check out my EchoClone AI: [Click here!](https://echoclone-ai.streamlit.app/)
-
 - 💬 Ask me about **Data Science, Machine Learning, and Web development.**
 
 - 📫 You can contact me at [anuragsrivatsav4@gmail.com](mailto:anuragsrivatsav4@gmail.com)
 
-- 🌍  I'm based in India
+- 🌍  I'm based in India
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ePE_Yf5fQCuJbUMjXxQ0gHTUAE4f9LOj/view](https://drive.google.com/file/d/1ePE_Yf5fQCuJbUMjXxQ0gHTUAE4f9LOj/view)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anuragsrivatsa4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragsrivatsa4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anuragsrivatsav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragsrivatsav" height="30" width="40" /></a>
-<a href="https://instagram.com/anuragsrivatsav4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuragsrivatsav4" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/klu_80013" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="klu_80013" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anurag_srivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anurag_srivastav" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<br>
+<img src="./Assets/gradient-line.gif" alt="gradient line" width="1920" />
+
+<h3 align="center">Languages and Tools:</h3> <img src="./Assets/coding-symbol-anime.gif" alt="coding anime gif" width="30">
+
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+<br>
+<img src="./Assets/gradient-line.gif" alt="gradient line" width="1920" />
+
+## Projects <img src="./Assets/rocket-anime.gif" alt="rocket anime gif" width="30">
+
+
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| EchoClone AI | [view](https://echoclone-ai.streamlit.app/) | [repo](https://github.com/anurag-srivatsav/EchoClone-AI) | `Python`  `Google Gen-AI`  `LangChain`  `Streamlit` `PlayHT` `Hugging Face` |
+| My Portfolio Assistant | [view](https://anuragsportfolioassist.streamlit.app/) | [repo](https://github.com/anurag-srivatsav/integratedAIbot) | `HTML` `CSS` `JavaScript` `React.js` `Node.js``Python` `Google Gen-AI` `LangChain` `Streamlit`  `Hugging Face` |
+| My Portfolio | | [view](https://anuragsrivatsav.netlify.app/) | [repo](https://github.com/anurag-srivatsav/MyPortfolio) | `HTML` `CSS` `Node.js` `React`  `AI`|
+| The Infinite Narrative | | [view](https://mindbending.netlify.app/) | [repo](https://github.com/anurag-srivatsav/ImaginativeWorld) | `HTML` `CSS` `Node.js` `React` `AI`|
+
+<br>
+
+
+
+
+
+<h3 align="left">Connect with me:</h3> <img src="./Assets/community-anime.webp" alt="community anime image" width="30">
+<p align="centre">
+
+
+[<img src="./Assets/twitter-anime.gif" alt="twitter anime gif" width="100">](https://x.com/AnuragSrivatsa4)
+[<img src="./Assets/linkedin-anime.gif" alt="linkedin anime gif" width="100">](https://linkedin.com/in/anuragsrivatsav)
+[<img src="./Assets/instagram-anime.gif" alt="instagram anime gif" width="100">](https://instagram.com/anuragsrivatsav4)
+[<img src="./Assets/email_png.png" width="110">](mailto:anuragsrivatsav4@gmail.com)
+
+</p>
+<img src="./Assets/gradient-line.gif" alt="gradient line" width="1920" />
+<br>
+
+## Statistics <img src="./Assets/target-anime.gif" alt="target anime gif" width="30">
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-srivatsav&show_icons=true&locale=en&layout=compact" alt="anurag-srivatsav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-srivatsav&show_icons=true&locale=en" alt="anurag-srivatsav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-srivatsav&" alt="anurag-srivatsav" /></p>
+
+[![Daily Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anurag-srivatsav&bg_color=ffffff&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/anurag-srivatsav)
